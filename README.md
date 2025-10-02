@@ -1,5 +1,5 @@
 # Hi, I'm Rogelio!!
-<br>🥷 I’m a passionate Fullstack Developer<br><br>❤️ I love learning new technologies and sharing knowledge <br><br>👨‍💻 Graduated from [4GeeksAcademy](https://4geeks.com/)<br><br>📖 Continuously expanding my skills and expertise
+<br>🥷 I’m a passionate Fullstack Developer<br><br>❤️ I love learning new technologies and sharing knowledge <br><br>📖 Continuously expanding my skills and expertise
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rogelio-granadino-902142152/) 
